@@ -1,4 +1,4 @@
-# t
+## Projeto de estudo Vue3, SCSS e Atomic Design
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
