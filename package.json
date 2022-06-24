@@ -8,7 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^3.2.33"
+    "sass": "1.53.0",
+    "sass-loader": "13.0.0",
+    "vue": "3.2.37"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
